@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="039896e6-68d8-477b-b006-42d3c09f3b19" name="Administrator@FOOLPP-REGION 2010-04-04 11:59:02" runUser="FOOLPP-REGION\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="本地测试运行" id="4ee2279a-db1a-4c83-8c80-e85e3097bb83">
+    <Description>这是本地测试运行的默认测试运行配置。</Description>
+    <Deployment userDeploymentRoot="F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestResults\Administrator_FOOLPP-REGION 2010-04-04 11_59_02">
+      <DeploymentItem filename="F:\Software Development\wuziqi\output\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll" />
+      <DeploymentItem filename="F:\Software Development\wuziqi\GrapeCity.Competition.Gomoku.Core.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="3" executed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="3" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2010-04-04T11:59:02.0937500+08:00" queuing="2010-04-04T11:59:02.8906250+08:00" start="2010-04-04T11:59:02.9218750+08:00" finish="2010-04-04T11:59:03.5625000+08:00" />
+  <TestDefinitions>
+    <UnitTest name="tupleNumTest" storage="f:\software development\wuziqi\{99bfe8d0-9396-4dc1-a3bd-1eed11548b10}\teststrategy\bin\debug\teststrategy.dll" id="81e52778-75a0-61aa-91a5-9fc171327658">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll" />
+      </DeploymentItems>
+      <Execution id="141b5857-d2ca-411c-a4f1-ac7aa0e4d290" />
+      <TestMethod codeBase="F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\TestStrategy.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestStrategy.PlayStrategyTest, TestStrategy" name="tupleNumTest" />
+    </UnitTest>
+    <UnitTest name="UpdateScoreTableTest" storage="f:\software development\wuziqi\{99bfe8d0-9396-4dc1-a3bd-1eed11548b10}\teststrategy\bin\debug\teststrategy.dll" id="cfd44d37-9e57-4aa2-8474-e4c28bf51e9b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll" />
+      </DeploymentItems>
+      <Execution id="fb2fa3e7-c9a6-4391-a626-d8bfa853ccac" />
+      <TestMethod codeBase="F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\TestStrategy.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestStrategy.PlayStrategyTest, TestStrategy" name="UpdateScoreTableTest" />
+    </UnitTest>
+    <UnitTest name="IsFobiddenTest" storage="f:\software development\wuziqi\{99bfe8d0-9396-4dc1-a3bd-1eed11548b10}\teststrategy\bin\debug\teststrategy.dll" id="9caeea68-80eb-1795-b2da-f3b6979b2df2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll" />
+      </DeploymentItems>
+      <Execution id="16130742-f2ba-468e-9d04-a642e6f6b198" />
+      <TestMethod codeBase="F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\TestStrategy.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestStrategy.PlayStrategyTest, TestStrategy" name="IsFobiddenTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cfd44d37-9e57-4aa2-8474-e4c28bf51e9b" executionId="fb2fa3e7-c9a6-4391-a626-d8bfa853ccac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9caeea68-80eb-1795-b2da-f3b6979b2df2" executionId="16130742-f2ba-468e-9d04-a642e6f6b198" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81e52778-75a0-61aa-91a5-9fc171327658" executionId="141b5857-d2ca-411c-a4f1-ac7aa0e4d290" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fb2fa3e7-c9a6-4391-a626-d8bfa853ccac" testId="cfd44d37-9e57-4aa2-8474-e4c28bf51e9b" testName="UpdateScoreTableTest" computerName="FOOLPP-REGION" duration="00:00:00.3412213" startTime="2010-04-04T11:59:02.9218750+08:00" endTime="2010-04-04T11:59:03.5312500+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。无法验证不返回值的方法。</Message>
+          <StackTrace>   在 TestStrategy.PlayStrategyTest.UpdateScoreTableTest() 位置 F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\PlayStrategyTest.cs:行号 81
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="16130742-f2ba-468e-9d04-a642e6f6b198" testId="9caeea68-80eb-1795-b2da-f3b6979b2df2" testName="IsFobiddenTest" computerName="FOOLPP-REGION" duration="00:00:00.0022339" startTime="2010-04-04T11:59:03.5312500+08:00" endTime="2010-04-04T11:59:03.5468750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。验证此测试方法的正确性。</Message>
+          <StackTrace>   在 TestStrategy.PlayStrategyTest.IsFobiddenTest() 位置 F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\PlayStrategyTest.cs:行号 100
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="141b5857-d2ca-411c-a4f1-ac7aa0e4d290" testId="81e52778-75a0-61aa-91a5-9fc171327658" testName="tupleNumTest" computerName="FOOLPP-REGION" duration="00:00:00.0019899" startTime="2010-04-04T11:59:03.5468750+08:00" endTime="2010-04-04T11:59:03.5625000+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive 失败。验证此测试方法的正确性。</Message>
+          <StackTrace>   在 TestStrategy.PlayStrategyTest.tupleNumTest() 位置 F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\PlayStrategyTest.cs:行号 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

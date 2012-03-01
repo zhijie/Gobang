@@ -1,0 +1,55 @@
+﻿
+对于前几步，可以考虑使用经典开局，而不是这里的计算最优位置
+
+已被占用的位置得分为 0
+
+后手落子时：
+如果要落子的位置是先手禁手位，应该在计算这个位置的得分时排除形成禁手的棋子参与的得分
+然后跟其他最优位置比较得分，则其高者
+但根据目前的程序，添加这种情况的处理工作量大，所以取一个折中的办法：
+如果能成五，成活四，成四四，则落子，否则不落子
+
+
+平台在调用strategy类时，只实例化一次。
+需改变方案，在每次调用时，重新计算所有位置得分
+tuple索引方式：以格点位元组索引。每个点最多可以索引4个元组；
+
+
+
+need to solved:
+
+
+
+
+
+
+
+
+
+
+
+
+solved:
+
+c# ref的效率
+规则中，先手在五连时的禁手规则
+比赛裁判，人还是程序。经测试，程序没有裁判功能
+尚未加入输赢判别功能
+关于public GrapeCity.Competition.Gomoku.Core.PlayStepResultEnum Check(GrapeCity.Competition.Gomoku.Core.IChessBoard chessBoard, GrapeCity.Competition.Gomoku.Core.ChessBoardPoint location, GrapeCity.Competition.Gomoku.Core.PieceTypeEnum pieceType)
+能不能用来检查禁手
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+version 2
+
+
+1:经典开局
+
+2：min-max 搜索：
+    只对最优的棋子进行搜索
+    最好的位置是使进行预测后最有优势（最优值得分最高）的位置
+	以搜索深度为终结条件	
+	
+3:原版改进：不搜索无人区
+    tuple计算只进行一次
+    

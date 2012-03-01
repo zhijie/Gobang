@@ -1,0 +1,6 @@
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\obj\Debug\ResolveAssemblyReference.cache
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}.dll.config
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\obj\Debug\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}.dll
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}\obj\Debug\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}.pdb
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}.dll
+F:\Software Development\wuziqi\CodeExample\{9F5D91B6-123D-4de2-B26D-B59041CEB07E}.pdb

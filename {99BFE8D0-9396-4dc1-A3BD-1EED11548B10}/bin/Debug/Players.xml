@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Players>
+  <Player>
+    <Name>随机测试玩家</Name>
+    <ID>{496FAC76-095B-458d-8642-797D9B477FB0}</ID>
+    <Type>GrapeCity.Competition.Gomoku.Arena.RandomPlayer,GrapeCity.Competition.Gomoku.Arena</Type>
+  </Player>
+  <Player>
+    <Name>玩家</Name>
+    <ID>{496FAC76-095B-458d-8642-797D9B477FB1}</ID>
+    <Type>GrapeCity.Competition.Gomoku.Arena.HumanPlayer,GrapeCity.Competition.Gomoku.Arena</Type>
+  </Player>
+  <Player>
+    <Name>onezeros</Name>
+    <ID>{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}</ID>
+    <Type>_99BFE8D0_9396_4dc1_A3BD_1EED11548B10_.Player,{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}</Type>
+  </Player>
+</Players>

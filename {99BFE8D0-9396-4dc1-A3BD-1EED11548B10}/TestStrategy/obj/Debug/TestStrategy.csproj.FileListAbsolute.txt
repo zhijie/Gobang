@@ -1,0 +1,10 @@
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\TestStrategy.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\TestStrategy.pdb
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\GrapeCity.Competition.Gomoku.Core.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.pdb
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}_Accessor.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}_Accessor.pdb
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\obj\Debug\ResolveAssemblyReference.cache
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\obj\Debug\TestStrategy.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\TestStrategy\obj\Debug\TestStrategy.pdb

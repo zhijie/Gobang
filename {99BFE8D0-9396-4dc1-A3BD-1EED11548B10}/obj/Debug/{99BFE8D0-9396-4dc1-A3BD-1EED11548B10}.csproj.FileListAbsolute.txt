@@ -1,0 +1,8 @@
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\bin\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.pdb
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\bin\Debug\GrapeCity.Competition.Gomoku.Core.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\obj\Debug\ResolveAssemblyReference.cache
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\obj\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll
+F:\Software Development\wuziqi\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}\obj\Debug\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.pdb
+F:\Software Development\wuziqi\output\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.dll
+F:\Software Development\wuziqi\output\{99BFE8D0-9396-4dc1-A3BD-1EED11548B10}.pdb
